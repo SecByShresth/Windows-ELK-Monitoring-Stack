@@ -44,7 +44,7 @@ Before running the stack, ensure you have:
 ### 1. Clone the Repository
 
 ```powershell
-git clone https://github.com/yourusername/windows-elk-grafana-stack.git
+git clone [https://github.com/yourusername/windows-elk-grafana-stack.git](https://github.com/SecByShresth/Windows-ELK-Monitoring-Stack.git)
 cd windows-elk-grafana-stack
 ```
 
@@ -411,5 +411,6 @@ For issues and support:
 ---
 
 **Made with ❤️ for Windows system administrators and DevOps engineers**
+
 
 *Simple, effective, and ready to deploy Windows Event Log monitoring*
